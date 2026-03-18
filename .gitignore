@@ -1,0 +1,27 @@
+# Visual Studio 
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build 결과물
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.txt
+*.dll
+bin/
+x64/
+ipch/
+
+# YOLO
+yolo_cpp_dll.*
+*.weights
+*.cfg
+
+# 이미지
+*.jpg
+*.png
+*.bmp
