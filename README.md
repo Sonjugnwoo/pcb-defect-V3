@@ -3,10 +3,10 @@ OpenCV + MFC + YOLOv3 기반 실시간 결함 탐지
 
 기능 개요  
 이미지 로드: 더 단위 배치 로딩 + 리스트박스 더블클릭  
-YOLOv3 검출: DeepPCB 훈련 모델 + 바운딩박스 실시간 시각화
-배치 처리: 전체 폴더 순차 자동 처리 + 진행률 표시
-결과 저장: 불량 이미지(Defect_XXXX.jpg) + 통계 리포트(UTF-8)
-UI: Picture Control 실시간 갱신 + 상태바 클래스별 카운트  
+YOLOv3 검출: DeepPCB 훈련 모델 + 바운딩박스 실시간 시각화  
+배치 처리: 전체 폴더 순차 자동 처리 + 진행률 표시  
+결과 저장: 불량 이미지(Defect_XXXX.jpg) + 통계 리포트(UTF-8)  
+UI: Picture Control 실시간 갱신 + 상태바 클래스별 카운트    
 
 기술 스택  
 Frontend: MFC Dialog + Picture Control  
