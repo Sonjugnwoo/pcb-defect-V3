@@ -28,16 +28,16 @@ GPU: CUDA 지원 (RTX 2060s)
 - 클래스 수: 6종 (short, missing_hole, mouse_bite 등)
 
 한계점 & 개선점  
-kaggle dateset 추가 학습 
-불량만 필터링
+kaggle dateset 추가 학습  
+불량만 필터링  
 불량 이미지 저장 , 보고서 작성  
 
 
 개발 로드맵
-v1.0 - 템플릿 매칭 프로토타입 ✅
-v2.0 - YOLOv3 배치 처리 ✅
-v3.0 - 불량만 추출 ✅  
-v4.0 - 실시간 카메라 스트림  
+v1.0 - 템플릿 매칭 프로토타입 ✅  
+v2.0 - YOLOv3 배치 처리 ✅  
+v3.0 - 불량만 추출 ✅    
+v4.0 - 실시간 카메라 스트림    
 
 ![Image](https://github.com/user-attachments/assets/384d2d0d-6640-404a-b8fe-1d6ed9f8a096)
 ![Image](https://github.com/user-attachments/assets/96fc30ed-9110-48b5-9037-c6be3b1ae495)
