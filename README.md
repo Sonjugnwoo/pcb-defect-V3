@@ -27,12 +27,6 @@ GPU: CUDA 지원 (RTX 2060s)
 - 배치 처리: 46.7ms/이미지   (300장/14초)
 - 클래스 수: 6종 (short, missing_hole, mouse_bite 등)
 
-한계점 & 개선점  
-kaggle dateset 추가 학습  
-불량만 필터링  
-불량 이미지 저장 , 보고서 작성  
-
-
 개발 로드맵  
 v1.0 - 템플릿 매칭 프로토타입 ✅  
 v2.0 - YOLOv3 배치 처리 ✅  
